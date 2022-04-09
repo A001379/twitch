@@ -2,11 +2,14 @@
 	"name": "twitch-chat",
 	"displayName": "Twitch Chat",
 	"description": "Display Twitch chat messages as information boxes",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": "github:a001379/twitch",
 	"engines": {
 		"vscode": "^1.65.0"
 	},
+	"extensionKind": [
+		"ui"
+	],
 	"categories": [
 		"Other"
 	],
