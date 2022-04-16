@@ -1,8 +1,10 @@
 {
 	"name": "twitch-chat",
+	"publisher": "a001379",
+	"icon": "TwitchGlitchPurple.png",
 	"displayName": "Twitch Chat",
 	"description": "Display Twitch chat messages as information boxes",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"repository": "github:a001379/twitch",
 	"engines": {
 		"vscode": "^1.65.0"
